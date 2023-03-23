@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "confreq"]
+	path = confreq
+	url = https://github.com/cran/confreq
+	shallow = true
+	registered = true
+[submodule "holland"]
+	path = holland
+	url = https://github.com/cran/holland
+	shallow = true
+	registered = true
+[submodule "pairwise"]
+	path = pairwise
+	url = https://github.com/cran/pairwise
+	shallow = true
+	registered = true
